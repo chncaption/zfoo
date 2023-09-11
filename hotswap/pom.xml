@@ -59,7 +59,7 @@
         <csv.version>1.9.0</csv.version>
         <!-- 字节码增强 -->
         <javassist.version>3.27.0-GA</javassist.version>
-        <bytebuddy.version>1.10.22</bytebuddy.version>
+        <bytebuddy.version>1.14.6</bytebuddy.version>
 
         <!-- 网络通讯框架 -->
         <netty.version>4.1.63.Final</netty.version>
