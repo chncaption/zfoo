@@ -14,20 +14,20 @@
     <properties>
         <!-- 本项目的其它module版本号 -->
         <zfoo.boot.version>3.0</zfoo.boot.version>
-        <zfoo.event.version>3.0</zfoo.event.version>
-        <zfoo.hotswap.version>3.0</zfoo.hotswap.version>
-        <zfoo.monitor.version>3.0</zfoo.monitor.version>
-        <zfoo.net.version>3.0</zfoo.net.version>
-        <zfoo.scheduler.version>3.0</zfoo.scheduler.version>
-        <zfoo.storage.version>3.0</zfoo.storage.version>
-        <zfoo.orm.version>3.0</zfoo.orm.version>
+        <zfoo.event.version>3.1.0</zfoo.event.version>
+        <zfoo.hotswap.version>3.1.0</zfoo.hotswap.version>
+        <zfoo.monitor.version>3.1.0</zfoo.monitor.version>
+        <zfoo.net.version>3.1.0</zfoo.net.version>
+        <zfoo.scheduler.version>3.1.0</zfoo.scheduler.version>
+        <zfoo.storage.version>3.1.0</zfoo.storage.version>
+        <zfoo.orm.version>3.1.0</zfoo.orm.version>
         <zfoo.protocol.version>3.0</zfoo.protocol.version>
         <zfoo.util.version>3.0</zfoo.util.version>
 
 
         <!-- 核心spring框架 -->
         <spring.version>5.3.19</spring.version>
-        <spring.boot.version>2.4.3</spring.boot.version>
+        <spring.boot.version>2.5.15</spring.boot.version>
 
 
         <!-- 工具包 -->
