@@ -66,7 +66,7 @@
         <netty.version>4.1.63.Final</netty.version>
 
         <!-- 分布式zookeeper核心依赖包 -->
-        <zookeeper.version>3.6.1</zookeeper.version>
+        <zookeeper.version>3.7.2</zookeeper.version>
         <curator.version>5.1.0</curator.version>
 
         <!-- 数据库和缓存 -->
