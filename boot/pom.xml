@@ -17,7 +17,7 @@
         <zfoo.event.version>3.0</zfoo.event.version>
         <zfoo.hotswap.version>3.0</zfoo.hotswap.version>
         <zfoo.monitor.version>3.0</zfoo.monitor.version>
-        <zfoo.net.version>3.0</zfoo.net.version>
+        <zfoo.net.version>3.1.0</zfoo.net.version>
         <zfoo.scheduler.version>3.0</zfoo.scheduler.version>
         <zfoo.storage.version>3.0</zfoo.storage.version>
         <zfoo.orm.version>3.0</zfoo.orm.version>
@@ -27,7 +27,7 @@
 
         <!-- 核心spring框架 -->
         <spring.version>5.3.19</spring.version>
-        <spring.boot.version>2.4.3</spring.boot.version>
+        <spring.boot.version>3.2.11</spring.boot.version>
 
 
         <!-- 工具包 -->
