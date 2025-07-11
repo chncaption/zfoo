@@ -53,7 +53,7 @@
 
 
         <!-- json和xml解析包 -->
-        <jackson.version>2.12.1</jackson.version>
+        <jackson.version>2.15.0</jackson.version>
         <fastjson.version>1.2.51</fastjson.version>
         <!-- office文档解析包 -->
         <poi.version>4.1.2</poi.version>
